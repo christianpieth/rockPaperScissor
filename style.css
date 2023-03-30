@@ -1,0 +1,36 @@
+body {
+    padding-top: 150px;
+    text-align: center;
+    background-image: url("backgroundgame.jpg");
+    background-size: cover; 
+    font-family: monospace;
+}   
+h1 {
+    margin: auto;
+    margin-bottom: 40px;
+    width: 30%;
+    background-color: #ffa686;
+    border: solid black;
+    border-radius: 20px;
+    border-width: px;
+    box-shadow: 3px 3px;
+    text-shadow: 1px 1px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}   
+#start-game {
+    font-family: monospace;
+    font-size: larger;
+    background-color: #ffa686;
+    border: solid black;
+    border-radius: 20px;
+    border-width: 2px;
+    box-shadow: 3px 3px;
+    padding: 10px;
+}
+#start-game:hover {
+    background-color: #89c2f7;
+  }
+#player-1, #player-2 {
+    font-size: xx-large;
+}
